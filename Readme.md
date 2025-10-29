@@ -74,13 +74,3 @@ Contact and license
 
 - This repository is classwork for academic use. Reuse or sharing should give appropriate attribution.
 - For questions or to add collaboration details, update this `Readme.md` with a contact email or GitHub handle.
-
----
-
-This format is stable: new day folders and dataset files may be added freely without changing the repository layout or other files. If you want, I can also:
-
-- Create a `requirements.txt` with common packages.
-- Add a `day_template/` folder containing a `README.md` and example script you can copy when starting a new lab folder.
-
-Tell me which of those you'd like me to add next.
-
