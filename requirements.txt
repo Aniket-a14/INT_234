@@ -1,0 +1,7 @@
+# Common packages used across INT_234 class exercises
+# Pinned versions are suggestions — update as needed for your environment
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.3.2
+matplotlib==3.8.1
+seaborn==0.13.2
