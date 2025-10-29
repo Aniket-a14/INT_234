@@ -11,7 +11,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
-print("Summary stats:/n",df.describe())
+print("Summary stats:\n",df.describe())
 X = df[['Marks','Hours_studied']]
 Y = df['Status']
 
